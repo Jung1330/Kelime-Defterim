@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\bin\x64\Release\net8.0-windows7.0\KelimeDefterim.exe
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\bin\x64\Release\net8.0-windows7.0\KelimeDefterim.deps.json
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\bin\x64\Release\net8.0-windows7.0\KelimeDefterim.runtimeconfig.json
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\bin\x64\Release\net8.0-windows7.0\KelimeDefterim.dll
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\bin\x64\Release\net8.0-windows7.0\KelimeDefterim.pdb
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\x64\Release\net8.0-windows7.0\KelimeDefteri.Form1.resources
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\x64\Release\net8.0-windows7.0\KelimeDefterim.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\x64\Release\net8.0-windows7.0\KelimeDefterim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\x64\Release\net8.0-windows7.0\KelimeDefterim.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\x64\Release\net8.0-windows7.0\KelimeDefterim.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\x64\Release\net8.0-windows7.0\KelimeDefterim.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\x64\Release\net8.0-windows7.0\KelimeDefterim.dll
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\x64\Release\net8.0-windows7.0\refint\KelimeDefterim.dll
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\x64\Release\net8.0-windows7.0\KelimeDefterim.pdb
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\x64\Release\net8.0-windows7.0\KelimeDefterim.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\x64\Release\net8.0-windows7.0\ref\KelimeDefterim.dll

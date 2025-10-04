@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\bin\Debug\net8.0-windows\KelimeDefterim.exe
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\bin\Debug\net8.0-windows\KelimeDefterim.deps.json
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\bin\Debug\net8.0-windows\KelimeDefterim.runtimeconfig.json
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\bin\Debug\net8.0-windows\KelimeDefterim.dll
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\bin\Debug\net8.0-windows\KelimeDefterim.pdb
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\Debug\net8.0-windows\KelimeDefterim.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\Debug\net8.0-windows\KelimeDefterim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\Debug\net8.0-windows\KelimeDefterim.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\Debug\net8.0-windows\KelimeDefterim.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\Debug\net8.0-windows\KelimeDefterim.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\Debug\net8.0-windows\KelimeDefterim.dll
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\Debug\net8.0-windows\refint\KelimeDefterim.dll
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\Debug\net8.0-windows\KelimeDefterim.pdb
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\Debug\net8.0-windows\KelimeDefterim.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\Debug\net8.0-windows\ref\KelimeDefterim.dll
+C:\Users\Administrator\source\repos\KelimeDefterim\KelimeDefterim\obj\Debug\net8.0-windows\KelimeDefteri.Form1.resources
